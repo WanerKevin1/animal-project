@@ -11,5 +11,7 @@ El Id lo he utilizado para tener un control mas exacto de la clase principal.
 
 He sustituido la funcionalidad de añadir nueva comida, por el de añadir / crear un nuevo animal. Me he dajado llevar un poco, y decidí continuar con la dinamica de los animales. Pero en caso de que sea necesario la funcionalidad antes mencionada, no tendría ningun inconveniente en realiarla y actualizar el codigo.
 
+Link de api: https://github.com/WanerKevin1/api-animals
+
 
 
